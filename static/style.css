@@ -1,0 +1,17 @@
+/* Tailwind CSS via CDN */
+@import 'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css';
+
+/* Custom styles */
+body {
+    font-family: 'Inter', sans-serif;
+}
+.progress-bar {
+    height: 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.progress-fill {
+    height: 100%;
+    transition: width 0.3s ease-in-out;
+}

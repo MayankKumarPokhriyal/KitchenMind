@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Chicken Salad",
+        "ingredients": [
+            {"name": "chicken", "quantity": 200, "unit": "g"},
+            {"name": "lettuce", "quantity": 100, "unit": "g"},
+            {"name": "tomato", "quantity": 50, "unit": "g"}
+        ],
+        "macros": {"protein": 40, "carbs": 10, "fats": 15, "calories": 350}
+    },
+    {
+        "name": "Pasta Bolognese",
+        "ingredients": [
+            {"name": "pasta", "quantity": 100, "unit": "g"},
+            {"name": "ground beef", "quantity": 150, "unit": "g"},
+            {"name": "tomato sauce", "quantity": 100, "unit": "g"}
+        ],
+        "macros": {"protein": 30, "carbs": 50, "fats": 20, "calories": 500}
+    }
+]
